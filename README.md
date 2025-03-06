@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Advanced AI integration to enhance user experience, along with frontend frameworks and backend technologies like Java and Spring Boot.**
 
-- 👨‍💻 All of my projects are available at [https://tiny-halva-0cdbcd.netlify.app](https://tiny-halva-0cdbcd.netlify.app)
+- 👨‍💻 All of my projects are available at [PortFolio](https://tiny-halva-0cdbcd.netlify.app)
 
 - 💬 Ask me about **MERN, DSA(Java,Javascript)**
 
 - 📫 How to reach me **mayurawari50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MxGQDJZQVsrD3SU7wR6RMEWslZHflIf6/view?usp=sharing](https://drive.google.com/file/d/1MxGQDJZQVsrD3SU7wR6RMEWslZHflIf6/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MxGQDJZQVsrD3SU7wR6RMEWslZHflIf6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
