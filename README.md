@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayur Awari</h1>
 <h3 align="center">MERN Stack Expertise: Powering Full-Stack Web Development</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurawari&label=Profile%20views&color=0e75b6&style=flat" alt="mayurawari" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mayurawari50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1as2SCjjSh8lZDckK2o8MWuJX2N3UBVqc/view](https://drive.google.com/file/d/1cHyF0x5wJDb-4xfK2Vcj7eV4SCH0OL6a/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MxGQDJZQVsrD3SU7wR6RMEWslZHflIf6/view?usp=sharing](https://drive.google.com/file/d/1MxGQDJZQVsrD3SU7wR6RMEWslZHflIf6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
