@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayurawari50" target="blank"><img src="https://img.shields.io/twitter/follow/mayurawari50?logo=twitter&style=for-the-badge" alt="mayurawari50" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js for dynamic UIs, Next.js for enhanced React apps, and Advanced DSA for stronger problem-solving skills.**
+- 🌱 I’m currently learning **Advanced AI integration to enhance user experience, along with frontend frameworks and backend technologies like Java and Spring Boot.**
 
 - 👨‍💻 All of my projects are available at [https://tiny-halva-0cdbcd.netlify.app](https://tiny-halva-0cdbcd.netlify.app)
 
