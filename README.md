@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mayurawari50@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MxGQDJZQVsrD3SU7wR6RMEWslZHflIf6/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aReTheuF4-_0433ogcAfnPk4mnD-VOnr/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
